@@ -1,0 +1,454 @@
+{
+    "todas": [
+        {
+            "titulo": "Pizza Casera",
+            "descr": "Ideal cena para compartir sin gastar de más.",
+            "image": "https://www.pequerecetas.com/wp-content/uploads/2018/01/masa-de-pizza-margarita-e1516891675440.jpg.webp",
+            "link": "https://www.recetasgratis.net/receta-de-pizza-casera-31391.html",
+            "estilo": [0],
+            "clima": [1],
+            "sabor": 1
+        },
+        {
+            "titulo": "Hamburguesas Caseras",
+            "descr": "Exquisitas para salvar una cena o acompañar con un arroz al almuerzo.",
+            "image": "https://cdn.pixabay.com/photo/2016/08/31/21/47/burger-1634705_960_720.jpg",
+            "link": "https://www.paulinacocina.net/receta-hamburguesas-caseras/1800",
+            "estilo": [0],
+            "clima": [1],
+            "sabor": 1
+        },
+        {
+            "titulo": "Pollo a la mostaza",
+            "descr": "Pechugas de pollo con mucho sabor y acompañamiento.",
+            "image": "https://t2.rg.ltmcdn.com/es/posts/8/6/0/pollo_a_la_mostaza_59068_600.jpg",
+            "link": "https://www.recetasgratis.net/receta-de-pollo-a-la-mostaza-59068.html",
+            "estilo": [0],
+            "clima": [1],
+            "sabor": 1
+        },
+        {
+            "titulo": "Sopa a la crema",
+            "descr": "Incorporando verduras a la dieta contra el frío.",
+            "image": "https://i.blogs.es/264125/crema_zanahoria/1366_2000.jpg",
+            "link": "https://www.paulinacocina.net/5-recetas-sopas-crema/11790",
+            "estilo": [0],
+            "clima": [0],
+            "sabor": 1
+        },
+        {
+            "titulo": "Bifes a la criolla",
+            "descr": "Clásica receta argentina con mucho sabor y energía.",
+            "image": "https://www.clarin.com/img/2020/08/14/Tdnlmph2Q_1256x620__2.jpg",
+            "link": "https://www.paulinacocina.net/bifes-a-la-criolla-clasico-argentino/10979",
+            "estilo": [0],
+            "clima": [1],
+            "sabor": 1
+        },
+        {
+            "titulo": "Tarta a gusto",
+            "descr": "Gran alternativa para rellenar con las verduras que más te gusten.",
+            "image": "https://www.clarin.com/img/2020/09/30/receta-de-tarta-de-tomates___QRSNdmKed_1256x620__2.jpg",
+            "link": "https://www.clarin.com/gourmet/30-recetas-tartas-saladas-faciles-rapidas_0_9iOufU0bR.html",
+            "estilo": [0],
+            "clima": [1],
+            "sabor": 1
+        },
+        {
+            "titulo": "Canelones",
+            "descr": "De verdura, ricota, pollo, lo que más te guste, con salsa.",
+            "image": "https://assets.unileversolutions.com/recipes-v2/209558.jpg",
+            "link": "https://www.recepedia.com/es-ar/recetas/pasta/209558-canelones-de-verdura/",
+            "estilo": [0],
+            "clima": [1],
+            "sabor": 1
+        },
+        {
+            "titulo": "Polenta con salsa",
+            "descr": "Sencilla receta italiana para combatir el frío.",
+            "image": "https://img-global.cpcdn.com/recipes/4bf2962b61f93777/680x482cq70/polenta-con-salsa-foto-principal.webp",
+            "link": "https://www.paulinacocina.net/como-hacer-polenta-con-tuco/25872",
+            "estilo": [0],
+            "clima": [0],
+            "sabor": 1
+        },
+        {
+            "titulo": "Ravioles",
+            "descr": "De verdura y ricota, de pollo, con espinaca o acelga.",
+            "image": "https://www.clarin.com/img/2020/08/31/_OxTWtKCd_1256x620__1.jpg",
+            "link": "https://www.clarin.com/recetas/platos-principales/ravioles-espinaca_7_yjy4juyp6.html",
+            "estilo": [0],
+            "clima": [0],
+            "sabor": 1
+        },
+        {
+            "titulo": "Postre borracho",
+            "descr": "Postre con vainillas, dulce de leche, crema y un toque de café.",
+            "image": "https://www.recetas-argentinas.com/base/stock/Recipe/57-image/57-image_web.jpg",
+            "link": "https://www.paulinacocina.net/como-hacer-postre-borracho-casero-en-4-pasos/24589",
+            "estilo": [2],
+            "clima": [1],
+            "sabor": 0
+        },
+        {
+            "titulo": "Guiso",
+            "descr": "De fideos, arroz o lentejas, con carne y mucho sabor.",
+            "image": "https://www.paulinacocina.net/wp-content/uploads/2021/09/goulash-noodles-eat-food-thumbnail-1.jpg",
+            "link": "https://www.paulinacocina.net/guiso-de-fideos-con-carne/24580",
+            "estilo": [0],
+            "clima": [0],
+            "sabor": 1
+        },
+        {
+            "titulo": "Zapallitos rellenos",
+            "descr": "Zapallitos rellenos de carne con alternativa vegetariana.",
+            "image": "https://www.clarin.com/img/2014/06/13/HJBp7DiDb_1256x620.jpg",
+            "link": "https://www.clarin.com/recetas/platos-principales/zapallitos-rellenos-carne_7_hlZM1u0tF.html",
+            "estilo": [0],
+            "clima": [0],
+            "sabor": 1
+        },
+        {
+            "titulo": "Lemon pie",
+            "descr": "Ideal postre cítrico con el dulzor justo del merengue.",
+            "image": "https://locosxlaparrilla.com/wp-content/uploads/2015/02/Receta-recetas-locos-x-la-parrilla-locosxlaparrilla-receta-lemon-pie-lemon-pie-lemon-receta-torta-lemon-pie-2.jpg",
+            "link": "https://www.pequerecetas.com/receta/lemon-pie-tarta-de-limon-merengue/",
+            "estilo": [2],
+            "clima": [1],
+            "sabor": 0
+        },
+        {
+            "titulo": "Ensalada Rusa",
+            "descr": "Clásica ensalada de verduras con opción de añadir pollo o atún.",
+            "image": "https://cuk-it.com/wp-content/uploads/2020/11/thumb06-1024x576.jpg",
+            "link": "https://www.paulinacocina.net/ensalada-rusa-receta-facil-y-nivel-dios/11243",
+            "estilo": [0],
+            "clima": [2],
+            "sabor": 1
+        },
+        {
+            "titulo": "Tallarines con Albóndigas",
+            "descr": "Clásico de pasta larga con albóndigas en salsa de tomate.",
+            "image": "https://www.divinacocina.es/wp-content/uploads/tallarines-con-albondigas.jpg",
+            "link": "https://www.divinacocina.es/tallarines-con-albondigas/",
+            "estilo": [0],
+            "clima": [0],
+            "sabor": 1
+        },
+        {
+            "titulo": "Tacos",
+            "descr": "Clásico de la cocina mexicana con muchas variantes",
+            "image": "https://www.paulinacocina.net/wp-content/uploads/2020/01/tacos-meat-food-mexican-lunch-dinner-800x600.jpg",
+            "link": "https://www.paulinacocina.net/como-hacer-tacos-mexicanos/21098",
+            "estilo": [0],
+            "clima": [2],
+            "sabor": 1
+        },
+        {
+            "titulo": "Ensalada Cesar",
+            "descr": "Ensalada fresca con pollo y rúcula.",
+            "image": "https://comeryrascar.com/wp-content/uploads/2022/02/175_1.jpg",
+            "link": "https://www.cocinacaserayfacil.net/ensalada-cesar-receta-original/",
+            "estilo": [0],
+            "clima": [2],
+            "sabor": 1
+        },
+        {
+            "titulo": "Sándwiches",
+            "descr": "Alternativa rápida y simple para ahorrar tiempo.",
+            "image": "https://www.recetasderechupete.com/wp-content/uploads/2019/10/Sandwich-club-presentacion-768x530.jpg",
+            "link": "https://www.directoalpaladar.com/directo-al-paladar/las-13-recetas-de-sandwich-mas-impresionantes-para-nuestro-picoteo-del-finde",
+            "estilo": [0],
+            "clima": [2],
+            "sabor": 1
+        },
+        {
+            "titulo": "Arroz con atún",
+            "descr": "Receta muy sencilla y fresca para un almuezo rápido.",
+            "image": "https://www.hechicerafit.com/static/r/237/arroz-fit-con-atun-y-maiz-es-YrqLR.jpg",
+            "link": "https://jumboalacarta.com.ar/2021/01/26/arroz-con-atun/",
+            "estilo": [0],
+            "clima": [2],
+            "sabor": 1
+        },
+        {
+            "titulo": "Tortilla de papa",
+            "descr": "Clásico de la cocina española a base de papas.",
+            "image": "https://www.recetasderechupete.com/wp-content/uploads/2020/11/Tortilla-de-patatas-4-768x530.jpg",
+            "link": "https://www.paulinacocina.net/tortilla-de-papas-espanola/10476",
+            "estilo": [0],
+            "clima": [2],
+            "sabor": 1
+        },
+        {
+            "titulo": "Budín de limón",
+            "descr": "Ideal budín cítrico para el desayuno o la merienda.",
+            "image": "https://www.paulinacocina.net/wp-content/uploads/2020/03/budin-e1586451072864.jpg",
+            "link": "https://www.paulinacocina.net/receta-de-budin-de-limon/21610",
+            "estilo": [1],
+            "clima": [1],
+            "sabor": 0
+        },
+        {
+            "titulo": "Galletas de avena",
+            "descr": "Ideales para la tarde con poca harina y muy fáciles de hacer.",
+            "image": "https://www.paulinacocina.net/wp-content/uploads/2015/12/P1170312-e1451518988154.jpg",
+            "link": "https://www.paulinacocina.net/galletas-de-avena-faciles/7942",
+            "estilo": [1],
+            "clima": [1,2],
+            "sabor": 0
+        },
+        {
+            "titulo": "Pepas",
+            "descr": "Clásicas pepas con membrillo para la merienda.",
+            "image": "https://recetinas.com/wp-content/uploads/2019/03/receta-de-pepas-caseras.jpg",
+            "link": "https://recetinas.com/pepas-caseras/",
+            "estilo": [1],
+            "clima": [1,2],
+            "sabor": 0
+        },
+        {
+            "titulo": "Torta de manzana",
+            "descr": "Clásica torta invertida de manzana para incorporar fruta a la merienda.",
+            "image": "https://t2.rg.ltmcdn.com/es/posts/7/3/3/torta_invertida_de_manzanas_56337_600.jpg",
+            "link": "https://www.recetasgratis.net/receta-de-torta-invertida-de-manzanas-56337.html",
+            "estilo": [1],
+            "clima": [1],
+            "sabor": 0
+        },
+        {
+            "titulo": "Alfajores de maicena",
+            "descr": "Riquísimos alfajores con dulce de leche y opción sin TACC.",
+            "image": "https://www.ohmargott.com/content/uploads/2020/05/DSC00628-01-e1588557286234-1170x836.jpeg",
+            "link": "https://www.paulinacocina.net/alfajores-de-maicena-receta-facil-casera-y-deliciosa/20379",
+            "estilo": [1],
+            "clima": [1],
+            "sabor": 0
+        },
+        {
+            "titulo": "Crackers",
+            "descr": "Galletitas saladas con semillas, ricas y nutritivas.",
+            "image": "https://www.locosporlacomida.com/wp-content/uploads/sites/3/2022/04/Crackers-De-Semillas-19-g-1024x768.jpg",
+            "link": "https://www.recetasgratis.net/receta-de-crackers-de-semillas-55731.html",
+            "estilo": [1],
+            "clima": [1],
+            "sabor": 1
+        },
+        {
+            "titulo": "Muffins",
+            "descr": "Fantásticos para acompañar la merienda o desayuno con muchas variantes.",
+            "image": "https://t1.rg.ltmcdn.com/es/posts/3/6/9/muffins_caseros_faciles_de_hacer_35963_600.jpg",
+            "link": "https://www.recetasgratis.net/receta-de-muffins-caseros-faciles-de-hacer-35963.html",
+            "estilo": [1],
+            "clima": [0],
+            "sabor": 0
+        },
+        {
+            "titulo": "Budín con chips",
+            "descr": "Budín clásico de vainilla con chips de chocolate.",
+            "image": "https://radiomitre-la100-prod.cdn.arcpublishing.com/resizer/N-3AVZNvvE4JYbTVIfZLo6cAYOY=/1440x0/smart/filters:quality(85):format(webp)/cloudfront-us-east-1.images.arcpublishing.com/radiomitre/MT3HC4M6XZCZVJI7KMF3UQJ7FU.jpg",
+            "link": "https://cuk-it.com/recetas/budin-de-vainilla-con-chocolate/",
+            "estilo": [1],
+            "clima": [0],
+            "sabor": 0
+        },
+        {
+            "titulo": "Bizcochitos",
+            "descr": "Alternativa salada y fácil para acompañar el mate.",
+            "image": "https://radiomitre-la100-prod.cdn.arcpublishing.com/resizer/LcC-I_owpWVztieX84Z_km2VqmM=/1440x0/smart/filters:quality(85):format(webp)/cloudfront-us-east-1.images.arcpublishing.com/radiomitre/SJZXG4XSDZCQNCQGDJAY7VH3OM.jpg",
+            "link": "https://www.lt10.com.ar/noticia/268841--bizcochitos-materos-listos-en-10-minutos",
+            "estilo": [1],
+            "clima": [0],
+            "sabor": 1
+        },
+        {
+            "titulo": "Medialunas",
+            "descr": "Receta algo más compleja de medialunas de manteca para merendar.",
+            "image": "https://cuk-it.com/wp-content/uploads/2021/06/thumb02-1024x576.jpg",
+            "link": "https://www.recetasgratis.net/receta-de-medialunas-de-manteca-74235.html",
+            "estilo": [1],
+            "clima": [0],
+            "sabor": 1
+        },
+        {
+            "titulo": "Waffles",
+            "descr": "Alternativa dulce o salada a elección, ideal para acompañar de frutas.",
+            "image": "https://img-global.cpcdn.com/recipes/edf51690b826e646/680x482cq70/waffles-sencillos-foto-principal.webp",
+            "link": "https://www.paulinacocina.net/receta-waffles-dulces-salados/20786",
+            "estilo": [1],
+            "clima": [0],
+            "sabor": 0
+        },
+        {
+            "titulo": "Cuadraditos de limón",
+            "descr": "Cuadraditos cítricos con glaseado para endulzar el día.",
+            "image": "https://lareceta.com.ar/uploads/notas/phpziA9QO.jpg",
+            "link": "https://elgourmet.com/receta/cuadraditos-de-limon-glaseados",
+            "estilo": [1],
+            "clima": [0],
+            "sabor": 0
+        },
+        {
+            "titulo": "Panqueques frutales",
+            "descr": "Clásicos panqueques acompañados de frutas de estación.",
+            "image": "https://www.pcrm.org/sites/default/files/2020-01/Pancakes.jpg",
+            "link": "https://elgourmet.com/receta/panqueques-americanos-con-frutas-de-estacion",
+            "estilo": [1],
+            "clima": [2],
+            "sabor": 0
+        },
+        {
+            "titulo": "Ensalada de frutas",
+            "descr": "Clásica ensalada de frutas ideal para el verano.",
+            "image": "https://saborgourmet.com/wp-content/uploads/macedonia_De_Frutas.jpg",
+            "link": "https://saborgourmet.com/ensalada-de-frutas-de-verano/",
+            "estilo": [2],
+            "clima": [2],
+            "sabor": 0
+        },
+        {
+            "titulo": "Licuados",
+            "descr": "Bebida con fruta a elección para refrescar la tarde.",
+            "image": "https://dam.cocinafacil.com.mx/wp-content/uploads/2018/08/licuados.jpg",
+            "link": "https://www.cocinafacil.com.mx/recetas/licuados/",
+            "estilo": [1],
+            "clima": [2],
+            "sabor": 0
+        },
+        {
+            "titulo": "Barritas de cereales",
+            "descr": "Barritas simples para incorporar cereales y frutas secas al desayuno.",
+            "image": "https://img-global.cpcdn.com/recipes/recipes_2302_v1424772933_receta_foto_00002302-ia5j8atmtdvjqgjv6xdj/680x482cq70/barritas-de-cereales-estilo-argentino-foto-principal.webp",
+            "link": "https://www.divinacocina.es/barritas-de-cereales-caseras/",
+            "estilo": [1],
+            "clima": [2],
+            "sabor": 0
+        },
+        {
+            "titulo": "Chocotorta",
+            "descr": "Clásico postre argentino exquisito que combina dulce de leche con galletitas de chocolate.",
+            "image": "https://www.cronista.com/files/image/468/468611/62c8901ff0951_950_534!.webp?s=7f5a1276155acc58470932b3c2eca5d7&d=1657312024&oe=jpg",
+            "link": "https://www.paulinacocina.net/receta-chocotorta-original/21722",
+            "estilo": [2],
+            "clima": [1,2],
+            "sabor": 0
+        },
+        {
+            "titulo": "Frutillas con crema",
+            "descr": "Postre simple, frutal, cremoso y dulce.",
+            "image": "https://www.recetas-argentinas.com/base/stock/Recipe/342-image/342-image_web.jpg",
+            "link": "https://www.paulinacocina.net/como-hacer-frutillas-con-crema/884",
+            "estilo": [2],
+            "clima": [1],
+            "sabor": 0
+        },
+        {
+            "titulo": "Panqueques",
+            "descr": "Postre muy simple, ideal para rellenar de dulce de leche.",
+            "image": "https://www.recetasderechupete.com/wp-content/uploads/2021/02/Panqueques-argentinos-768x530.jpg",
+            "link": "https://www.recetasderechupete.com/panqueques-argentinos-con-dulce-de-leche-postre-muy-facil-preparar/37609/",
+            "estilo": [2],
+            "clima": [1],
+            "sabor": 0
+        },
+        {
+            "titulo": "Cheesecake",
+            "descr": "Postre a base de queso acompañado de frutas.",
+            "image": "https://images.aws.nestle.recipes/resized/d9f9eccdd87752c78993ef0c67e345d3_Cheseecake-de-fresa_1200_600.jpg",
+            "link": "https://alicante.com.ar/201-receta-cheesecake",
+            "estilo": [2],
+            "clima": [1],
+            "sabor": 0
+        },
+        {
+            "titulo": "Flan de coco",
+            "descr": "Variante con coco del clásico fan de huevo.",
+            "image": "https://www.recetasderechupete.com/wp-content/uploads/2015/01/flan_coco.jpg",
+            "link": "https://www.recetasderechupete.com/flan-de-coco/12237/",
+            "estilo": [2],
+            "clima": [0],
+            "sabor": 0
+        },
+        {
+            "titulo": "Banoffee",
+            "descr": "Tarta con bananas, crema y alternativa de dulce de leche.",
+            "image": "https://www.paulinacocina.net/wp-content/uploads/2022/06/receta-de-tarta-banoffee-800x533.jpg",
+            "link": "https://www.directoalpaladar.com/postres/tarta-banoffee-receta-facil-rapida-deliciosa-que-tiene-todo",
+            "estilo": [2],
+            "clima": [0],
+            "sabor": 0
+        },
+        {
+            "titulo": "Budín de pan",
+            "descr": "Postre de barato, para acompañar de crema y dulce de leche.",
+            "image": "https://www.ilolay.com.ar/uploads/recetas/1633203723-Budin-de-pan.jpg",
+            "link": "https://www.paulinacocina.net/budin-de-pan-4-pasos/10866",
+            "estilo": [2],
+            "clima": [0],
+            "sabor": 0
+        },
+        {
+            "titulo": "Brownies",
+            "descr": "Brownies de chocolate, ideales para acompañar de crema o helado.",
+            "image": "https://images.aws.nestle.recipes/resized/2020_06_03T13_21_43_mrs_ImageRecipes_147427lrg_448_448.jpg",
+            "link": "https://www.paulinacocina.net/brownie-de-chocolate-con-nueces/13489",
+            "estilo": [2],
+            "clima": [0],
+            "sabor": 0
+        },
+        {
+            "titulo": "Tarantela de peras",
+            "descr": "Postre que puede combinar peras y manzanas, consistente y frutal.",
+            "image": "https://cocinerosargentinos.com/content/recipes/500x500/tarantella-mixta-de-manzanas-y-peras.5553.jpg",
+            "link": "https://cocinerosargentinos.com/postres/tarantella-mixta-de-manzanas-y-peras",
+            "estilo": [2],
+            "clima": [0],
+            "sabor": 0
+        },
+        {
+            "titulo": "Postre borracho",
+            "descr": "Postre con vainillas, dulce de leche, crema y un toque de café.",
+            "image": "https://www.recetas-argentinas.com/base/stock/Recipe/57-image/57-image_web.jpg",
+            "link": "https://www.paulinacocina.net/como-hacer-postre-borracho-casero-en-4-pasos/24589",
+            "estilo": [2],
+            "clima": [0],
+            "sabor": 0
+        },
+        {
+            "titulo": "Tarta de frutillas",
+            "descr": "Tarta de frutillas con crema pastelera, ideal para postre.",
+            "image": "https://img-global.cpcdn.com/recipes/30b3384b01730dc4/680x482cq70/tarta-de-frutillas-foto-principal.webp",
+            "link": "https://www.paulinacocina.net/tarta-de-frutillas/12108",
+            "estilo": [2],
+            "clima": [2],
+            "sabor": 0
+        },
+        {
+            "titulo": "Helado",
+            "descr": "Opción casera para endulzar el verano.",
+            "image": "https://www.paulinacocina.net/wp-content/uploads/2015/08/P1130545.jpg",
+            "link": "https://www.paulinacocina.net/helado-de-dulce-de-leche-casero/8679",
+            "estilo": [2],
+            "clima": [2],
+            "sabor": 0
+        },
+        {
+            "titulo": "Pavlova",
+            "descr": "Postre frutal con una base de merengue para endulzar el día.",
+            "image": "https://assets.tmecosys.com/image/upload/t_web600x528/img/recipe/ras/Assets/985A80A6-1DDD-40D7-B253-BE3B2E213926/Derivates/14E89F3D-1282-4935-AF56-56431A725845.jpg",
+            "link": "https://www.pequerecetas.com/receta/pavlova/",
+            "estilo": [2],
+            "clima": [2],
+            "sabor": 0
+        },
+        {
+            "titulo": "Torta Oreo",
+            "descr": "Torta muy dulce de galletitas Oreo, con crema.",
+            "image": "https://www.recetasderechupete.com/wp-content/uploads/2019/11/Tarta-de-Oreo-768x527.jpg",
+            "link": "https://www.paulinacocina.net/torta-oreo/27070",
+            "estilo": [2],
+            "clima": [2],
+            "sabor": 0
+        }
+    ]
+}
