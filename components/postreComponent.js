@@ -9,7 +9,7 @@ export default function PostreComponent({ lista }) {
         <>
             <div className="flex flex-wrap justify-center gap-5">
                 {
-                    listaPostre.map(({ titulo, descr, image, link }) => <ResultComponent title={titulo} descr={descr} image={image} link={link} />)
+                    listaPostre.map(({ titulo, descr, image, link }) => <ResultComponent key={titulo} title={titulo} descr={descr} image={image} link={link} />)
                 }
             </div>
         </>

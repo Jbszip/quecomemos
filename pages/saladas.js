@@ -26,7 +26,7 @@ export default function Saladas() {
                 <div className="container mx-auto lg:px-32" >
                     <div className="flex flex-wrap justify-center gap-5 mb-5">
                         {
-                            saladas.map(({ titulo, descr, image, link }) => <ResultComponent title={titulo} descr={descr} image={image} link={link} />)
+                            saladas.map(({ titulo, descr, image, link }) => <ResultComponent key={titulo} title={titulo} descr={descr} image={image} link={link} />)
                         }
                     </div>
                 </div>

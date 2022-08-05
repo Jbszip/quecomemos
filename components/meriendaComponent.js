@@ -9,7 +9,7 @@ export default function MeriendaComponent({ lista }) {
         <>
             <div className="flex flex-wrap justify-center gap-5 mb-5">
                 {
-                    listaMerienda.map(({ titulo, descr, image, link }) => <ResultComponent title={titulo} descr={descr} image={image} link={link} />)
+                    listaMerienda.map(({ titulo, descr, image, link }) => <ResultComponent key={titulo} title={titulo} descr={descr} image={image} link={link} />)
                 }
             </div>
         </>

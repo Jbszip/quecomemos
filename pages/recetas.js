@@ -23,7 +23,7 @@ export default function Recetas() {
                 <div className="container mx-auto lg:px-32" >
                     <div className="flex flex-wrap justify-center gap-5 mb-5">
                         {
-                            listas.map(({ titulo, descr, image, link }) => <ResultComponent title={titulo} descr={descr} image={image} link={link} />)
+                            listas.map(({ titulo, descr, image, link }) => <ResultComponent key={titulo} title={titulo} descr={descr} image={image} link={link} />)
                         }
                     </div>
                 </div>

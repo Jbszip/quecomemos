@@ -23,7 +23,7 @@ export default function HomeComponent() {
             </div>
             <div className="flex flex-wrap justify-center gap-5 my-2">
                 {
-                    recomendado.map(({ titulo, descr, image, link }) => <ResultComponent title={titulo} descr={descr} image={image} link={link} />)
+                    recomendado.map(({ titulo, descr, image, link }) => <ResultComponent key={titulo} title={titulo} descr={descr} image={image} link={link} />)
                 }
             </div>
         </main>

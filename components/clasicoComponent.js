@@ -9,7 +9,7 @@ export default function ClasicoComponent({lista}) {
         <>
             <div className="flex flex-wrap justify-center gap-5 mb-5">
                 {
-                    listaClasico.map(({ titulo, descr, image, link }) => <ResultComponent title={titulo} descr={descr} image={image} link={link} />)
+                    listaClasico.map(({ titulo, descr, image, link }) => <ResultComponent key={titulo} title={titulo} descr={descr} image={image} link={link} />)
                 }
             </div>
         </>
