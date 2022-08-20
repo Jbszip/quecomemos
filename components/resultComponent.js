@@ -3,7 +3,7 @@ export default function ResultComponent({ title, descr, image, link }) {
         <article>
             <div className="w-56 md:w-80 overflow-hiddenrounded-lg rounded shadow-lg inverted">
                 <div className="px-4 py-2">
-                    <h1 className="truncate hover:text-clip text-2xl font-bold uppercase">{title}</h1>
+                    <h1 className="truncate hover:text-clip text-2xl font-bold uppercase italic">{title}</h1>
                     <p className= "truncate mt-1 text-sm h-full">{descr}</p>
                 </div>
                 <img className="object-cover w-full h-52 mt-2" src={image} alt={title}  />

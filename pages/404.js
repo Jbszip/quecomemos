@@ -16,8 +16,8 @@ export default function Error(){
                 <div className="container grid gap-4 flex items-center mx-auto mt-6 h-full">
                     <h1 className="text-3xl font-semibold uppercase lg:text-4xl text-center">Error 404</h1>
                     <Image src={img}  className="align-center" alt="Error image" width={300} height={300}/>
-                    <p className="text-2xl font-semibold lg:text-3xl text-center" >No pudimos encontrar la página que buscabas.</p>
-                    <button className="inline-block px-9 py-2.5 bg-red-800 mx-auto mb-6 max-w-sm font-medium text-sm lg:text-md leading-tight uppercase rounded-full transition-colors duration-150 transform sm:w-auto bg-gradient-to-r from-red-700 to-red-900 hover:from-red-700 hover:to-red-700"><Link href="/">Vuelve al inicio</Link></button>
+                    <p className="text-2xl font-semibold italic lg:text-3xl text-center" >No pudimos encontrar la página que buscabas.</p>
+                    <button className="inline-block px-9 py-2.5 bg-red-800 mx-auto mb-6 max-w-sm font-medium italic text-sm lg:text-md leading-tight uppercase rounded-full transition-colors duration-150 transform sm:w-auto bg-gradient-to-r from-red-700 to-red-900 hover:from-red-700 hover:to-red-700"><Link href="/">Vuelve al inicio</Link></button>
                 </div>
                 <Footer />
             </main>

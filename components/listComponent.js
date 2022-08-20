@@ -18,20 +18,20 @@ climaa === 'frio' ? recetas.todas.filter((receta) => {
 
     return (
         <main className="mb-4">
-            <section className="overflow-hidden mt-2 pb-2 divide-y-reverse divide-y-2 divide-red-800">
-                <h1 className="font-bold  uppercase  text-2xl mx-6 my-2">Recomendaciones:</h1>
+            <section className="overflow-hidden mt-2 pb-2 divide-y-reverse divide-y-2 divide-white">
+                <h1 className="font-bold  uppercase  text-2xl mx-6 my-2 italic underline">Recomendaciones:</h1>
                 <div className="container mx-auto lg:px-32" >
                     <ClasicoComponent lista={lista} />
                 </div>
             </section>
-            <section className="overflow-hidden mt-1 divide-y-reverse divide-y-2 divide-red-800">
-                <h1 className="font-bold  uppercase  text-2xl mx-6 my-2">Desayunos y Meriendas:</h1>
+            <section className="overflow-hidden mt-1 divide-y-reverse divide-y-2 divide-white">
+                <h1 className="font-bold  uppercase  text-2xl mx-6 my-2 italic underline">Desayunos y Meriendas:</h1>
                 <div className="container mx-auto lg:px-32">
                     <MeriendaComponent lista={lista} />
                 </div>
             </section>
             <section className="overflow-hidden mt-1">
-                <h1 className="font-bold  uppercase  text-2xl mx-6 my-2">Postres:</h1>
+                <h1 className="font-bold  uppercase  text-2xl mx-6 my-2 italic underline">Postres:</h1>
                 <div className="container mx-auto lg:px-32">
                     <PostreComponent lista={lista} />
                 </div>
